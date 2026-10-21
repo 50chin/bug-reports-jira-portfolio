@@ -74,7 +74,7 @@ bug-reports-jira-portfolio/
 * **Minor:** 3 (Некорректные изображения, Смещение иконки корзины)
 * **Trivial:** 2 (Кривой крестик меню, Смещение стрелки на кнопке Cancel)
 
-Подробная сводка со списком всех багов доступна в файле [`test-summary.md`](https://test-documentation/test-summary.md)
+Подробная сводка со списком всех багов доступна в файле [`test-summary.md`](/test-documentation/test-summary.md)
 
 ## 👩‍💻 Автор
 
